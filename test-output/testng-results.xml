@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite Test" duration-ms="7782" started-at="2017-09-09T07:35:02Z" finished-at="2017-09-09T07:35:10Z">
+    <groups>
+    </groups>
+    <test name="DriverTest" duration-ms="7782" started-at="2017-09-09T07:35:02Z" finished-at="2017-09-09T07:35:10Z">
+      <class name="com.bitm.newtours.Test.LoginTest">
+        <test-method status="PASS" signature="checkloginpagetitle()[pri:1, instance:com.bitm.newtours.Test.LoginTest@46d56d67]" name="checkloginpagetitle" duration-ms="6893" started-at="2017-09-09T13:35:02Z" finished-at="2017-09-09T13:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkloginpagetitle -->
+        <test-method status="PASS" signature="logintest()[pri:2, instance:com.bitm.newtours.Test.LoginTest@46d56d67]" name="logintest" duration-ms="874" started-at="2017-09-09T13:35:09Z" finished-at="2017-09-09T13:35:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- com.bitm.newtours.Test.LoginTest -->
+    </test> <!-- DriverTest -->
+  </suite> <!-- Suite Test -->
+</testng-results>
