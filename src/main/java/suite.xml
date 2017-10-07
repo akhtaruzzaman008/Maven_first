@@ -6,6 +6,8 @@
   <test name="DriverTest">
     <classes>
        <class name="com.bitm.newtours.Test.LoginTest" />
+       <class name="com.bitm.newtours.Test.FlightFinderTest" />
+       
     </classes>
   </test>
   
